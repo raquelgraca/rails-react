@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
+gem 'font-awesome-sass', '~> 5.12.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -63,4 +64,3 @@ gem "react-rails", "~> 2.6"
 
 gem 'bootstrap', '~> 4.5'
 
-gem "font-awesome-rails", "~> 4.7"
